@@ -51,7 +51,13 @@ scikit-learn
 
 ## How to Run the Project
 
-1. Clone the repository:
+1. Run the training pipeline to prepare the model and scaler:
+
+```bash
+python src/pipelines/training_pipeline.py
+```
+
+2. 1. Clone the repository:
 
 ```bash
 git clone <repository-url>
@@ -60,7 +66,7 @@ git clone <repository-url>
 2. Navigate to the project directory:
 
 ```bash
-cd project
+cd <your-project-folder>
 ```
 
 3. Start the Flask application:
@@ -127,7 +133,4 @@ http://127.0.0.1:5000/
 - Deploy the app on cloud platforms like AWS, GCP, or Heroku.
 
 ---
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
