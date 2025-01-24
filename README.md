@@ -118,14 +118,6 @@ http://127.0.0.1:5000/
 
 ---
 
-## Screenshots
-### Input Form:
-(Screenshot of the input form)
-
-### Prediction Output:
-(Screenshot of the prediction result)
-
----
 
 ## Future Enhancements
 - Improve the user interface.
